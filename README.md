@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb icon">
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack icon">
 </p>
+
+<br>
 <p>My most used languages:</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielloXXI" alt="Most used Languages" />
 <h2 align="center">Hope you enjoy it here!</h2>
