@@ -28,5 +28,12 @@
 <h3><b>My contacts:</b></h3>
 <a href="https://t.me/POCTIK999"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Webpack icon"></a>
 <a></a>
+<h3>
+My Stats:
+</h3><img src="https://github-readme-stats.vercel.app/api?username=DanielloXXI&hide=stars" alt="Anurag's GitHub stats" alt="stats">
+<a></a>
+
 
 <h2 align="center">Hope you enjoy it here!</h2>
+
+
