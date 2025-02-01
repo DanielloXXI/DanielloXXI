@@ -37,7 +37,7 @@
 <h3>
 My Stats:
 </h3><img src="https://github-readme-stats.vercel.app/api?username=DanielloXXI&hide=stars" alt="Anurag's GitHub stats" alt="stats">
-<a></a>
+
 
 
 <h2 align="center">Hope you enjoy it here!</h2>
